@@ -1,6 +1,5 @@
 {
     "name": "arches-dev-dependencies",
-    "version": "7.0.0",  
     "dependencies": {
         "@babel/core": "^7.16.7",
         "@babel/eslint-parser": "^7.16.5",
