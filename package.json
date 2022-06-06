@@ -1,7 +1,7 @@
 {
     "name": "arches-dev-dependencies",
     "version": "7.0.0",  
-    "devDependencies": {
+    "dependencies": {
         "@babel/core": "^7.16.7",
         "@babel/eslint-parser": "^7.16.5",
         "@babel/plugin-proposal-class-properties": "^7.16.7",
