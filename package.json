@@ -40,7 +40,7 @@
         "stylelint-webpack-plugin": "^5.0.0",
         "text-loader": "^0.0.1",
         "ts-loader": "^9.5.1",
-        "typescript": "^5.4.5",
+        "typescript": "5.4.5",
         "typescript-eslint": "^8.0.0-alpha.11",
         "vitest": "^1.5.0",
         "vue-loader": "^17.4.2",
