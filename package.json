@@ -41,7 +41,7 @@
         "vue-tsc": "2.2.12",
         "webpack": "5.105.4",
         "webpack-cli": "5.1.4",
-        "webpack-dev-server": "5.2.3",
+        "webpack-dev-server": "5.2.5",
         "webpack-merge": "5.10.0"
     }
 }
